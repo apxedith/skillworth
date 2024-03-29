@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
+import 'package:skillworth/core/constants/constants.dart';
 
 class MessagesWidget extends StatefulWidget {
   final int count;

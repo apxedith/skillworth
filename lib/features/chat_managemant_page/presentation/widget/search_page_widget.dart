@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/core/utils/utils.dart';
-import 'package:skillworth_mobile/core/widgets/circular_avatar_icon_widget.dart';
-import 'package:skillworth_mobile/features/chat_managemant_page/presentation/widget/search_field_widget.dart';
-import 'package:skillworth_mobile/features/chat_managemant_page/presentation/widget/search_recent_container_widget.dart';
-import 'package:skillworth_mobile/features/chat_managemant_page/presentation/widget/search_result_container_widget.dart';
+import 'package:skillworth/core/utils/utils.dart';
+import 'package:skillworth/core/widgets/circular_avatar_icon_widget.dart';
+import 'package:skillworth/features/chat_managemant_page/presentation/widget/search_field_widget.dart';
+import 'package:skillworth/features/chat_managemant_page/presentation/widget/search_recent_container_widget.dart';
+import 'package:skillworth/features/chat_managemant_page/presentation/widget/search_result_container_widget.dart';
 
 class SearchPageWidget extends StatefulWidget {
   const SearchPageWidget({super.key});

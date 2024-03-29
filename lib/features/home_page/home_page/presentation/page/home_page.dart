@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/utils/utils.dart';
-import 'package:skillworth_mobile/features/home_page/chat_bot_management/presentation/widget/home_page_chatbot_widget.dart';
-import 'package:skillworth_mobile/features/home_page/home_page/presentation/widget/home_page_appbar.dart';
-import 'package:skillworth_mobile/features/home_page/notification_management.dart/presentation/widget/home_page_notification_contatiner_widget.dart';
+import 'package:skillworth/core/utils/utils.dart';
+import 'package:skillworth/features/home_page/chat_bot_management/presentation/widget/home_page_chatbot_widget.dart';
+import 'package:skillworth/features/home_page/home_page/presentation/widget/home_page_appbar.dart';
+import 'package:skillworth/features/home_page/notification_management.dart/presentation/widget/home_page_notification_contatiner_widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

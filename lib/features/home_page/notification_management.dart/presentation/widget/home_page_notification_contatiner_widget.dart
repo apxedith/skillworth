@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/home_page/notification_management.dart/presentation/widget/notification_view_widget.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/home_page/notification_management.dart/presentation/widget/notification_view_widget.dart';
 
 class HomePageNotificationContainerWidget extends StatefulWidget {
   const HomePageNotificationContainerWidget({super.key});
