@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:sizer/sizer.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/core/widgets/custom_long_button.dart';
 
 class NotesViewWidget extends StatefulWidget {
   final int index;

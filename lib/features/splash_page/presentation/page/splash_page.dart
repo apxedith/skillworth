@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/get_started_page/presentation/page/get_started_page.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/get_started_page/presentation/page/get_started_page.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

@@ -1,11 +1,7 @@
-import 'dart:ui';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/skillset_page/presentation/widget/your_skill_view_widget.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/skillset_page/presentation/widget/your_skill_view_widget.dart';
 
 class YourSkillsContainer extends StatefulWidget {
   const YourSkillsContainer({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
+import 'package:skillworth/core/constants/constants.dart';
 
 class SkillDetailsGraphWidget extends StatefulWidget {
   const SkillDetailsGraphWidget({super.key});

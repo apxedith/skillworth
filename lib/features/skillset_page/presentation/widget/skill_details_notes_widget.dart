@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/skillset_page/presentation/widget/notes_view_widget.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/skillset_page/presentation/widget/notes_view_widget.dart';
 
 class SkillsDetailNotesWidget extends StatefulWidget {
   const SkillsDetailNotesWidget({super.key});

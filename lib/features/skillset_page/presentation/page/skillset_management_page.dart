@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/utils/utils.dart';
-import 'package:skillworth_mobile/core/widgets/common_appbar_widget.dart';
-import 'package:skillworth_mobile/features/skillset_page/presentation/widget/your_skill_container_widget.dart';
-import 'package:skillworth_mobile/features/skillset_page/presentation/widget/your_task_container_widget.dart';
+import 'package:skillworth/core/utils/utils.dart';
+import 'package:skillworth/core/widgets/common_appbar_widget.dart';
+import 'package:skillworth/features/skillset_page/presentation/widget/your_skill_container_widget.dart';
+import 'package:skillworth/features/skillset_page/presentation/widget/your_task_container_widget.dart';
 
 class SkillSetManagementPage extends StatefulWidget {
   const SkillSetManagementPage({super.key});

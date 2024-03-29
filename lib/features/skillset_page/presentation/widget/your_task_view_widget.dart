@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/core/widgets/custom_image_add_widget.dart';
-import 'package:skillworth_mobile/core/widgets/custom_long_button.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/core/widgets/custom_image_add_widget.dart';
+import 'package:skillworth/core/widgets/custom_long_button.dart';
 
 class YourTaskViewWidget extends StatefulWidget {
   const YourTaskViewWidget({super.key});

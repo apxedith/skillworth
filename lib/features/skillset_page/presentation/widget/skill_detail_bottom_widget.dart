@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/project_management_page/presentation/widget/documents_container_widget.dart';
-import 'package:skillworth_mobile/features/project_management_page/presentation/widget/media_container_widget.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/project_management_page/presentation/widget/documents_container_widget.dart';
+import 'package:skillworth/features/project_management_page/presentation/widget/media_container_widget.dart';
 
 class SkillDetailBottomWidget extends StatefulWidget {
   const SkillDetailBottomWidget({super.key});

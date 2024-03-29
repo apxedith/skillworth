@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/core/utils/utils.dart';
-import 'package:skillworth_mobile/core/widgets/circular_avatar_icon_widget.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/core/utils/utils.dart';
+import 'package:skillworth/core/widgets/circular_avatar_icon_widget.dart';
 
 class SkillDetailTopWidget extends StatefulWidget {
   const SkillDetailTopWidget({super.key});
