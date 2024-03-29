@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:skillworth_mobile/core/datastate/data_state_response.dart';
-import 'package:skillworth_mobile/features/register_page/data/data_source/add_skill_api_service.dart';
-import 'package:skillworth_mobile/features/register_page/data/model/add_skill_model.dart';
-import 'package:skillworth_mobile/features/register_page/domain/repository/add_skill_repository.dart';
+import 'package:skillworth/core/datastate/data_state_response.dart';
+import 'package:skillworth/features/register_page/data/data_source/add_skill_api_service.dart';
+import 'package:skillworth/features/register_page/data/model/add_skill_model.dart';
+import 'package:skillworth/features/register_page/domain/repository/add_skill_repository.dart';
 
 class AddSkillRepositoryImpli implements AddSkillRepository {
   final AddSkillApiService addSkillApiService;

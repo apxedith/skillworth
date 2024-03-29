@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:skillworth_mobile/features/register_page/domain/entity/verification_entity.dart';
+import 'package:skillworth/features/register_page/domain/entity/verification_entity.dart';
 
 class VerificationModel extends VerificationEntity {
   const VerificationModel({

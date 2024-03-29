@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/features/register_page/data/model/verfication_model.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/features/register_page/data/model/verfication_model.dart';
 
 class VerificationApiService {
   final Dio dio;

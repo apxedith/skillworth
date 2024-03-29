@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:skillworth_mobile/core/datastate/data_state_response.dart';
-import 'package:skillworth_mobile/features/register_page/data/data_source/sign_up_api_service.dart';
-import 'package:skillworth_mobile/features/register_page/data/model/sign_up_model.dart';
-import 'package:skillworth_mobile/features/register_page/domain/repository/sign_up_repository.dart';
+import 'package:skillworth/core/datastate/data_state_response.dart';
+import 'package:skillworth/features/register_page/data/data_source/sign_up_api_service.dart';
+import 'package:skillworth/features/register_page/data/model/sign_up_model.dart';
+import 'package:skillworth/features/register_page/domain/repository/sign_up_repository.dart';
 
 class SignUpRepositoryImpli implements SignUpRepository {
   final SignUpApiService signUpApiService;

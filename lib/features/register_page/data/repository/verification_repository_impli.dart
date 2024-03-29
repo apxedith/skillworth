@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:skillworth_mobile/core/datastate/data_state_response.dart';
-import 'package:skillworth_mobile/features/register_page/data/data_source/verification_api_service.dart';
-import 'package:skillworth_mobile/features/register_page/data/model/verfication_model.dart';
-import 'package:skillworth_mobile/features/register_page/domain/repository/verification_repository.dart';
+import 'package:skillworth/core/datastate/data_state_response.dart';
+import 'package:skillworth/features/register_page/data/data_source/verification_api_service.dart';
+import 'package:skillworth/features/register_page/data/model/verfication_model.dart';
+import 'package:skillworth/features/register_page/domain/repository/verification_repository.dart';
 
 class VerificationRepositoryImpli implements VerificationRepository {
   final VerificationApiService verificationApiService;

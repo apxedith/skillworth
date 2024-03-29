@@ -1,15 +1,14 @@
 import 'package:dropdown_textfield/dropdown_textfield.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:sizer/sizer.dart';
-import 'package:skillworth_mobile/config/theme/color_theme.dart';
-import 'package:skillworth_mobile/core/constants/constants.dart';
-import 'package:skillworth_mobile/core/utils/utils.dart';
-import 'package:skillworth_mobile/core/widgets/custom_image_add_widget.dart';
-import 'package:skillworth_mobile/core/widgets/custom_long_button.dart';
-import 'package:skillworth_mobile/core/widgets/custom_multi_dropdown_textfield_widget.dart';
-import 'package:skillworth_mobile/features/register_page/presentation/page/add_skills_page.dart';
+import 'package:skillworth/config/theme/color_theme.dart';
+import 'package:skillworth/core/constants/constants.dart';
+import 'package:skillworth/core/utils/utils.dart';
+import 'package:skillworth/core/widgets/custom_image_add_widget.dart';
+import 'package:skillworth/core/widgets/custom_long_button.dart';
+import 'package:skillworth/core/widgets/custom_multi_dropdown_textfield_widget.dart';
+import 'package:skillworth/features/register_page/presentation/page/add_skills_page.dart';
 
 class VerificationPage extends StatefulWidget {
   const VerificationPage({super.key});

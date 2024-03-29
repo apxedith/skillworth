@@ -1,4 +1,4 @@
-import 'package:skillworth_mobile/features/register_page/domain/entity/add_skill_entity.dart';
+import 'package:skillworth/features/register_page/domain/entity/add_skill_entity.dart';
 
 class AddSkillModel extends AddSkillEntity {
   AddSkillModel({

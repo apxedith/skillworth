@@ -1,6 +1,6 @@
-import 'package:skillworth_mobile/core/datastate/data_state_response.dart';
-import 'package:skillworth_mobile/core/usecase/use_case.dart';
-import 'package:skillworth_mobile/features/register_page/domain/repository/verification_repository.dart';
+import 'package:skillworth/core/datastate/data_state_response.dart';
+import 'package:skillworth/core/usecase/use_case.dart';
+import 'package:skillworth/features/register_page/domain/repository/verification_repository.dart';
 
 class VerificationUseCase implements UseCase<DataResponseState, void> {
   final VerificationRepository verificationRepository;
